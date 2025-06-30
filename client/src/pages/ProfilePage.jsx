@@ -3,6 +3,8 @@ import{useNavigate} from 'react-router-dom'
 import assets from '../assets/assets';
 const ProfilePage = () => {
 
+  
+
   const[slectedImage, setSelectedImage]=useState(null);
   const navigate=useNavigate();
 
