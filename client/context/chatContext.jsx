@@ -144,7 +144,7 @@ useEffect(()=>{
 
 const value={
 
-    messages,users,selectedUser,getUser,setMessages,sendMessage,setSelectedUsser,
+    messages,users,selectedUser,getUser,getMessages,sendMessage,setSelectedUsser,
     unseenMessages,setUnseenMessages
 
 
